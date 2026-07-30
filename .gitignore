@@ -20,3 +20,5 @@
 .plugkit-browser-profile-*/
 .plugkit-browser-profile/
 /.gm/
+config.bat
+node_modules
